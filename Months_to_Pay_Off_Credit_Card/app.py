@@ -21,7 +21,7 @@
 #   It will take you 70 months to pay off this card.
 #
 # Note: If the monthly payment is too low to ever reduce the balance, the program
-# should indicate that the payment is insufficient.
+# should indicate that the payment is insufficient
 
 
 import math
