@@ -64,4 +64,5 @@ if __name__ == "__main__":
     number_of_numbers = get_number_of_numbers()
     special_chars = get_number_of_special_chars()
     build_password(minimum_length, special_chars, number_of_numbers)
-    print( 'Your password is\n'+''.join(password_characters))
+    print(password_characters)
+    print( 'Your password is '+''.join(password_characters))
